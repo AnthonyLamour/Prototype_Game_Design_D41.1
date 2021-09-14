@@ -1,0 +1,162 @@
+Now we're ready to start
+To see every rules, we're going to take a game in progress
+In the Monopoly every player plays one after the other
+During your turn you can do multiple actions
+Now let's start with the most basic action...
+Roll the dices!
+In the Monopoly we play with 2 dices
+Let's give it a try
+Oh, a double nice play
+A chance square
+Now you must draw a chance card
+Get out jail free a useful one
+It's one of the only cards that you can keep and exchange
+You can use it well, to get out of jail...
+You've made a double so you can roll the dices again
+Another double you're lucky...
+For the moment anyway let's look what's going to happen
+A community chest!
+Well it's like a chance square
+You must draw a community chest card
+You just have to pay now
+Do you remember? double so roll the dices
+But, be careful another double and...
+You will see
+Oh, a double
+In the Monopoly if you do 3 doubles in a row you're going to jail
+So have a nice trip!
+By the way, click on this button to end your turn
+\#
+OK player 2 you saw player 1
+So, roll the dices
+Double one
+You maybe saw it
+But, you passed the starting square
+Every time you pass on this square you get M200
+Except if you are like player 1
+If you pass this square to go to jail you don't get anything
+You're on a property own by nobody
+So, you can buy it, let's check this
+Every property has a rent
+A price
+A name
+A color
+A house price
+And a mortgage price
+Here we're only interested by the price and the rent
+If you buy this property every players that stop on it must pay you the rent
+And even if you're in jail!
+Let's test and buy it you have enough money
+Well done now you're an owner
+Ah and you made a double remember so...
+Got it? yes roll the dices
+Double again
+The second brown property
+Hum buy it we will start the funny things
+You now own all the properties of a same color
+You can now build some houses on it
+A house price change with the property
+You can only build houses in a precise order
+The rule is the following if you want to build a house on a property, the other properties of the same color have to have at least the same number of houses
+For example, if you want to build a second house on a property the other properties of the same color must have at least 1 house
+If you have 4 houses on a property you can build a hotel
+The hotel will take the place of your 4 houses so you will lose them
+There is a 32 houses and 12 hotels available, if many players want to buy the last ones there will be a bid for it
+Come on let's build a house
+Perfect and don't forget double so roll the dices
+You stopped on jail, but don't worry if you stopped on jail because of a simple roll
+You are in a simple visit so you can finish you're turn
+\#
+Player 3 your turn
+Roll
+Double again you're all lucky today !
+Anyway, you're on a train station
+A train station like a property can be buy
+And like properties if another player stops on it, he will pay you a rent
+BUT
+You can't build any houses on it
+The rent price depends of the number of train stations that you own
+Just buy it you have the money to do so
+And double so roll the dices
+Another train station what a luck, buy it to increase the rent of both
+Perfect by the way, if you stop on a property own by nobody you CAN buy it
+But, if you don't want to then the bank must start a bid with all the players that want to participate to buy the property
+That's all, now you can end your turn
+\#
+Player 4 roll the dices and don't forget...
+For the money and the monopoly !
+A company, interesting
+Like you can see there are 2 companies on the board
+Companies are also properties so you can buy them
+But, like a train station you can't build anything on it
+The rent working differently on those
+The players that stop on it has to pay 4 times the result of his dice roll if you only have one company and
+10 times! if you have the 2 companies
+Buy it, I have an idea you will thank me later
+You now have one company, but player 3 have the other one
+No problem you can exchange them
+Player 3 you have 2 train stations want one more?
+We need it in order to continue so just say yes
+And that's it the exchange is a success congratulations to both of you
+Oh, by the way, you can't give something to someone if he doesn't give you anything
+Got it? OK now you can end your turn
+\#
+Player 5 let's roll
+Double not bad
+But, a train station if you remember correctly then you know you must pay the rent to player 3
+Player 3 I told you it was a good exchange
+This property belongs to another player so you can't do anything interesting
+So just roll the dice again
+Free parking this is a unique square and when you stop on it then...
+nothing happens no really nothing just relax
+And end your turn of course
+\#
+Player 6 roll and good luck
+Luxury square well you will have to pay
+There are 2 taxes squares on the board, and you can't buy it
+So, the rent goes to the bank
+But, wait you can't pay...
+You will have to mortgage!
+When you mortgage a property you first need to sell all the houses on all the properties of the same color and this property
+The bank will just give you the half of the total price of your houses
+Then the bank gives you the mortgage price of the property
+But, you won't be able to use this property anymore so no more rent or build on it
+Later you will be able to pay the bank back, but we will see that later
+Now you just have to end you're turn
+\#
+Player 7 you start in jail tough luck
+But, don't worry there is multiple ways to get out of jail
+The first way is making a double with the dices
+The second is by paying a fine of M50 that you will have to pay if you haven't made a double in the 3 turns following your arresting
+And the last one is by using a get out of jail free card
+And this is perfect because you have one
+Excellent now roll the dices
+A property what a luck you already own the 2 others pink properties so why don't you buy this one
+Perfect now don't build anything on it
+Why?
+Because if you own all the properties of a same color and if you don't have any house on it...
+The rent is multiplied by 2!
+Not bad?
+But, this doesn't work if one of the properties is mortgage
+Talking about mortgage you can pay back the bank for one of your properties
+For that you must pay the mortgage rent and 10% of the mortgage price to the bank
+And that's it, you can use your property again
+You can now end your turn
+\#
+Player 8 let's put an end to this tutorial!
+A pink property you will have to pay the rent
+...
+...
+Wait, but you can't, and you don't have any more property that you can mortgage
+Well sorry player 8, but you're ruined!
+So, you must give everything you have to player 7 except your houses because the bank will buy them to half of their price
+This money will then be given to the player 7
+Game over for you, the game end when there is only one player left
+Player 7 you could have gotten a mortgage property so you should have to pay the 10% of the mortgage price right now
+Then you could choose to pay back the bank now or later
+But, be careful! You should still pay the 10% when you will pay the bank back
+\#
+Well that's all for this tutorial so many things can happen in only one turn
+Now I let you try a real game!
+Yeah, I know you will miss me but never forget...
+For the money and the monopoly!

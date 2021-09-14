@@ -1,0 +1,162 @@
+Nous allons pouvoir commencer
+Pour des raisons pratiques nous allons utiliser une partie en cours
+Au Monopoly chaque joueur joue chacun son tour
+Pendant votre tour vous pouvez faire plusieurs actions
+Commençons par celle de base...
+Jeter les dés
+Au Monopoly on joue avec 2 dés
+Allez essayer
+Oh un double bien joué
+Vous êtes tombé sur une case chance
+Vous devez donc tirer une carte chance
+Une sortie de prison cette carte peut vous servir
+C'est l'une des seules que vous pouvez garder et échange
+Elle vous permet bah de sortir de prison...
+Au fait vu que vous avez fait un double vous pouvez relancer
+Un autre double vous avez de la chance...
+Pour l'instant, bref voyons ce qu'il se passe
+Une caisse de communauté !
+Ça marche comme une case chance
+Vous devez donc juste tirer une carte de communauté
+Bon vous avez juste à payer maintenant
+Vous vous souvenez ? Double donc relancer
+Mais attention si vous refaites un double...
+Vous verrez
+Oh un double
+Dans le Monopoly si vous faites 3 doubles d'affiler vous allez en prison
+Alors, bon voyage !
+Au fait vous pouvez appuyer sur ce bouton pour finir votre tour
+\#
+Bien joueur 2 vous avez vu joueur 1
+Donc lançons les dés
+Double un
+Vous l'avez peut-être vue
+Mais vous êtes passé sur la case départ
+À chaque fois que vous passez dessus vous recevez M200
+Sauf dans le cas qu'a eu joueur 1
+Si vous passez dessus pour aller en prison vous ne gagné rien
+Vous êtes sur une propriété n'appartenant à personne
+Vous pouvez donc l'acheter regardons ça
+Chaque propriété à un loyer
+Un prix
+Un nom
+Une couleur
+Un prix de maison
+Et un prix d'hypothèque
+Ici nous allons nous intéresser uniquement au prix et au loyer
+Si vous achetez cette propriété tous les joueurs qui tombes dessus vont devoir vous payer le loyer
+Et ce même si vous êtes en prison !
+Faisons le test acheter la donc vous en avez les moyens
+Bien joué vous êtes maintenant propriétaire
+Ah et vous avez fait un double donc...
+Vous l'avez ? Oui vous rejouez
+Double un encore
+Vous êtes tombé sur la deuxième propriété marron
+Hum achetez la nous allons pouvoir commencé les choses sérieuses
+Vous avez maintenant toutes les propriétés d'une même couleur
+Vous pouvez donc construire des maisons dessus
+Le prix d'une maison varie selon la propriété
+Vous ne pouvez construire les maisons que dans un ordre précis
+La règle est la suivante si vous voulez construire une maison sur une propriété,il faut que les autres propriétés de même couleur est au moins le même nombre de maisons
+Par exemple pour construire une deuxième maison sur une propriété il faut que toutes les propriétés de la même couleur aient au moins une maison
+Si vous avez 4 maisons sur une propriétés vous pouvez alors acheter un hôtel
+L'hôtel prendra la place des 4 maisons et vous les perdrez donc
+Il y a 32 maisons et 12 hôtels disponibles, si plusieurs joueurs veulent acheter les derniers ils sont alors vendu au enchères
+Aller achetez vous donc une maison
+Parfait et n'oubliez pas double donc rejoue
+Vous avez atterri sur la case prison, mais pas de panique si vous tombé dessus par un simple jet de dés
+Alors, vous êtes en simple visite et non enfermé en prison vous pouvez donc finir votre tour
+\#
+Joueur 3 à vous
+Lancé
+Double encore vous avez de la chance sur ce plateau.
+Bref vous êtes tombé sur une gare
+Une gare comme une propriété peut être acheté
+Et comme pour les propriétés si un joueur tombe dessus il vous paye un loyer
+MAIS
+Vous ne pouvez pas faire de maison sur une gare
+Le prix du loyer des gares est déterminées par le nombre de gare que vous possédées
+Acheté la donc vous en avez les moyens
+Et double donc relancé
+Une deuxième gare ça tombe bien acheter la et augmenter ainsi le loyer de vos gares
+Parfait aux faites si vous tombez sur une propriété n'appartenant à personne vous pouvez l'acheter
+Mais vous pouvez aussi ne pas l'acheter dans ce cas une enchère est lancé et les joueurs qui le veules peuvent y prendre part afin d'acheter cette propriété
+Voilà, vous pouvez terminer votre tour
+\#
+Joueur 4 allez lancé et n'oubliez pas...
+Penser à l'argent et au monopole
+Une compagnie, intéressant
+Comme vous pouvez le voir il y a 2 compagnies sur le plateau
+Les compagnies sont aussi des propriétés et peuvent donc être acheté
+Mais comme pour les gares on ne peut construire dessus
+Le loyer de ces cases marche différemment
+Le joueur qui tombe dessus dois payer 4 fois le résultat de son lancer de dés si vous n'en possédez qu'une et
+10 fois ! Si vous possédez les 2
+Acheté la donc j'ai une idée vous me remercierez
+Vous avez maintenant une compagnie, mais le joueur 3 a la deuxième
+Pas de problème vous pouvez lui échanger
+Joueur 3 vous avez 2 gares ça vous dit une de plus ?
+De toute façon on en a besoins pour continuer donc dites oui
+Et voilà l'échange est fait félicitations à tous les deux
+Ah et temps qu'on y est vous ne pouvez pas donner quelque chose à quelqu'un sans qu'il vous donne quelque chose en retour
+Bien vous pouvez finir votre tour
+\#
+Joueur 5 lancez
+Un double pas mal
+Mais une gare si vous avez bien suivi vous allez devoir payer joueur 3
+Joueur 3 je vous avais dit que c'était un bon échange
+Cette propriété appartenant à un autre joueur vous ne pouvez pas faire grand-chose
+Relancer donc
+Parc gratuit cette case est unique quand vous êtes dessus...
+Il ne se passe rien non sérieusement détendez-vous c'est tout
+Ah et finissez votre tour aussi bien sûr
+\#
+Joueur 6 lancez et bonne chance
+Taxe de luxe bon bah il va falloir payer
+Il y a 2 cases de taxe sur le plateau ces case ne peuvent être achetées
+Le loyer revient donc à la banque
+Ah je remarque que vous n'avez pas de quoi payer...
+Il va falloir hypothéquer !
+Lorsque vous hypothéquez une propriété vous devez en premier lieu vendre toutes les constructions des propriétés de même couleur et de cette propriété
+La banque vous donne alors la moitié du prix de ces maisons
+Ensuite, la banque vous donne le montant d'hypothèque correspondant à la propriété
+Cette propriété devient cependant inutilisable vous ne percevrez donc plus de loyer de cette propriété
+Vous pourrez plus tard lever l'hypothèque nous verrons comment
+En attendant vous n'avez plus qu'à finir votre tour
+\#
+Joueur 7 vous commencé en prison dommage
+Mais ne vous en faites pas il y a plusieurs méthodes pour en sortir
+La première est de faire un double aux dés
+La deuxième en payant une amende de M50 que vous êtes obligé de payer si vous ne faites pas un double durant les 3 tours suivant votre arrestation
+Et la troisième avec une carte sortie de prison
+Ça tombe bien vous en avez une, utilisé la donc
+Bien maintenant lancé les dés
+Une propriété ça tombe bien vous avez déjà les deux autres propriétés roses acheter la donc
+Bien et maintenant ne construisez aucune maison
+Pourquoi ?
+Parce que si vous possédez toutes les propriétés de même couleur et qu'elles n'ont aucune maison...
+Leur loyer est doublé !
+Pas mal hein ?
+Attention cependant cela ne fonctionne pas si une des propriétés est hypothéquée
+En parlant d'hypothèque vous pouvez lever l'hypothèque d'une de vos propriétés
+Pour cela vous devez payer la valeur d'hypothèque de la propriété +10% de cette valeur à la banque
+Et voilà vous avez récupéré votre propriété
+Vous pouvez maintenant finir votre tour
+\#
+Bien joueur 8 finissons ce tutoriel en beauté !
+Ah vous êtes tombé sur du rose il va falloir payer le loyer
+...
+...
+Mais vous ne pouvez pas et vous n'avez pas de propriété à hypothéquer
+Et bien désolé joueur 8, mais vous êtes ruiné !
+Vous devez donc donner tous vos biens à joueur 7 sauf vos maisons qui seront rachetées par la banque à la moitié de leurs prix
+Cet argent sera ensuite versé à joueur 7
+Vous êtes donc hors course, la partie se termine lorsqu'il ne reste plus qu'un joueur
+Joueur 7 vous auriez pu hériter d'une propriété hypothéquer vous auriez donc dù payer 10% de l'hypothèque tout de suite
+Vous auriez pu également choisir de lever ou non l'hypothèque tout de suite
+Attention ! Vous auriez toujours dû payer les 10% en plus au moment de lever l'hypothèque
+\#
+Voilà pour ce tutoriel il peut s'en passer des choses en un tour
+Je vous laisse maintenant le plaisir de faire une vraie partie entre vous.
+Oui je sais je vais vous manquer mais n'oubliez pas
+Pensez à l'argent et au monopole !!!
